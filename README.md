@@ -2,7 +2,7 @@
 
 Dans ce dossier, vous trouverez tous les travaux pratiques réalisés dans le cadre du cours d'analyse d'incertitudes et de sensibilité en ingénierie.
 
-Dans les différents fichiers, nous abordons des utilisations pratiques de certaines notions, comme le Krigeage, les indices de Sobol et les indices HSIC. Le dernier fichier propose une application du Krigeage à l'optimisation bayésienne sous contraintes.
+Dans les différents fichiers, nous abordons des utilisations pratiques de certaines notions, comme le Krigeage, les plans d'expériences, les méta-modèles et les indices HSIC. Le dernier fichier propose une application du Krigeage à l'optimisation bayésienne sous contraintes.
 
 -------------
 **AISI**
